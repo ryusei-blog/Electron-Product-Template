@@ -1,0 +1,21 @@
+.
+├── .github
+│   └── workflows
+│       └── release.yaml
+├── .gitignore
+├── CHANGELOG.md
+├── directory-tree.txt
+├── docs
+│   ├── ARCHITECTURE-OVERVIEW.md
+│   ├── MODULES-AND-FLOWS.md
+│   └── PRIVACY-AND-DATA.md
+├── public
+│   ├── legal
+│   │   └── NOTICE
+│   └── screenshots
+├── README.md
+├── SECURITY.md
+├── TROUBLESHOOTING.md
+└── VERIFY-GUIDE.md
+
+7 directories, 12 files

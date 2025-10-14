@@ -1,0 +1,19 @@
+Electron Product Template
+Copyright (c) 2025 FreedomBuild
+All rights reserved.
+
+Licensed under the MIT License.
+See the LICENSE file in the project root for license information.
+
+---
+
+This application is built using open source components.  
+We acknowledge and thank the following projects and their contributors:
+
+- Electron (https://www.electronjs.org/) — MIT License
+- Node.js (https://nodejs.org/) — MIT License
+- Chromium (https://www.chromium.org/) — BSD License
+- Next.js (https://nextjs.org/) — MIT License
+- React (https://react.dev/) — MIT License
+
+For the full list of third-party dependencies, refer to `public/legal/THIRD_PARTY_NOTICES.txt`.
