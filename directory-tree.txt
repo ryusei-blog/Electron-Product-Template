@@ -1,9 +1,6 @@
 .
-├── .github
-│   └── workflows
-│       └── release.yaml
-├── .gitignore
 ├── CHANGELOG.md
+├── check-sheet.md
 ├── directory-tree.txt
 ├── docs
 │   ├── ARCHITECTURE-OVERVIEW.md
@@ -18,4 +15,4 @@
 ├── TROUBLESHOOTING.md
 └── VERIFY-GUIDE.md
 
-7 directories, 12 files
+5 directories, 11 files
